@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/CreateBars_Ex/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CreateBars_Ex/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/CreateBars_Ex/MainPage.xaml) (VB: [MainPage.xaml](./VB/CreateBars_Ex/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/CreateBars_Ex/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CreateBars_Ex/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to create simple bars
